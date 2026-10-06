@@ -1,5 +1,4 @@
 # LaundaryMart
-# LaundaryMart
 
 LaundaryMart is a simple laundry service website developed using HTML. It allows users to view laundry services, prices, place an order, and access contact information.
 
